@@ -1,1 +1,4 @@
+__pycache__/
 /venv
+.idea/
+/jace/page_files/spider_pages/*
